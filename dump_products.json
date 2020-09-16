@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "totalPrice": 100500,
+  "count": 3,
+  "products": [
+    {
+      "id": 16873,
+      "href": "href",
+      "imgSrc": "src",
+      "select": [
+        {
+          "name": "name",
+          "value": "value"
+        }
+      ],
+      "price": 100000,
+      "oldPrice": 200000
+    },
+    {
+      "id": 13431,
+      "href": "href1",
+      "imgSrc": "src1",
+      "select": [
+        {
+          "name": "name1",
+          "value": "value1"
+        }
+      ],
+      "price": 500,
+      "oldPrice": 3000
+    }
+  ]
+}
+
+{
+  "success": false,
+  "errors": "Тут идут тексты ошибок"
+}
