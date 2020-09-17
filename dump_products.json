@@ -11,6 +11,10 @@
         {
           "name": "name",
           "value": "value"
+        },
+        {
+          "name": "name",
+          "value": "value"
         }
       ],
       "price": 100000,
