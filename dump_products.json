@@ -1,7 +1,7 @@
 {
   "success": true,
   "totalPrice": 100500,
-  "count": 3,
+  "totalCount": 3,
   "products": [
     {
       "id": 16873,
@@ -14,10 +14,12 @@
         }
       ],
       "price": 100000,
-      "oldPrice": 200000
+      "oldPrice": 200000,
+      "quantity": 1,
+      "name": "Product"
     },
     {
-      "id": 13431,
+      "id": 2493,
       "href": "href1",
       "imgSrc": "src1",
       "select": [
@@ -27,7 +29,9 @@
         }
       ],
       "price": 500,
-      "oldPrice": 3000
+      "oldPrice": 1000,
+      "quantity": 2,
+      "name": "Product1"
     }
   ]
 }
