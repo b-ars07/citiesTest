@@ -285,18 +285,6 @@
             }
           ]
         }
-      },
-      "address": {
-        "auto": {
-          "price": 536,
-          "period": "4-5 дней",
-          "label": "СДЭК (Посылка, до двери)",
-          "service_name": "СДЭК",
-          "inn": "7727374996",
-          "tariff": "Посылка, до двери",
-          "period_formatted": "4-5 дней",
-          "price_formatted": "536 руб"
-        }
       }
     },
     "pek": {
