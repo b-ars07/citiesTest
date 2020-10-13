@@ -319,6 +319,18 @@
             }
           ]
         }
+      },
+    "address": {
+        "auto": {
+          "price": 780,
+          "period": "6 дней",
+          "label": "ПЭК (Авто, до двери)",
+          "service_name": "ПЭК",
+          "inn": "7721823853",
+          "tariff": "Авто, до двери",
+          "period_formatted": "6 дней",
+          "price_formatted": "780 руб"
+        }
       }
     },
 "pek": {
