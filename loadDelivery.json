@@ -324,7 +324,7 @@
         "auto": {
           "price": 780,
           "period": "5 дней",
-          "label": "GTD (Авто, до двери)",
+          "label": "GTD",
           "service_name": "GTD",
           "inn": "7721823853",
           "tariff": "Авто, до двери",
