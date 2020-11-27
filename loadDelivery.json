@@ -12,8 +12,7 @@
           "tariff": "Посылка, до пункта",
           "period_formatted": "4-5 дней",
           "price_formatted": "391 руб",
-          "pvz": [
-            {
+          "pvz": [{
               "name": "Аврора (на Гагарина, 38)",
               "lat": "55.129726",
               "lon": "61.43437",
@@ -285,6 +284,18 @@
             }
           ]
         }
+      },
+      "address": {
+        "auto": {
+          "price": 780,
+          "period": "5 дней",
+          "label": "GTD",
+          "service_name": "GTD",
+          "inn": "7721823853",
+          "tariff": "Авто, до двери",
+          "period_formatted": "6 дней",
+          "price_formatted": "910 руб"
+        }
       }
     },
     "gtd": {
@@ -298,8 +309,7 @@
           "tariff": "Стандарт, до пункта",
           "period_formatted": "4 дня",
           "price_formatted": "545 руб",
-          "pvz": [
-            {
+          "pvz": [{
               "name": "Северный луч, 1 А",
               "address": "Северный луч, 1 А",
               "lat": "55.214794",
@@ -320,7 +330,7 @@
           ]
         }
       },
-    "address": {
+      "address": {
         "auto": {
           "price": 780,
           "period": "5 дней",
@@ -333,7 +343,7 @@
         }
       }
     },
-"pek": {
+    "pek": {
       "pvz": {
         "auto": {
           "price": 560,
@@ -344,8 +354,7 @@
           "tariff": "Авто, до пункта",
           "period_formatted": "6 дней",
           "price_formatted": "560 руб",
-          "pvz": [
-            {
+          "pvz": [{
               "name": "Челябинск 01",
               "lat": "55.214675",
               "lon": "61.433474",
@@ -472,6 +481,18 @@
               "more": ""
             }
           ]
+        }
+      },
+      "address": {
+        "auto": {
+          "price": 780,
+          "period": "5 дней",
+          "label": "GTD",
+          "service_name": "GTD",
+          "inn": "7721823853",
+          "tariff": "Авто, до двери",
+          "period_formatted": "6 дней",
+          "price_formatted": "910 руб"
         }
       }
     }
