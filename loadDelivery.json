@@ -477,14 +477,14 @@
         "auto": {
           "price": 780,
           "period": "5 дней",
-          "label": "GTD",
-          "service_name": "GTD",
+          "label": "ПЭК",
+          "service_name": "ПЭК",
           "inn": "7721823853",
           "tariff": "Авто, до двери",
           "period_formatted": "6 дней",
           "price_formatted": "910 руб",
-          "daysMin": 2,
-          "daysMax": 8
+          "daysMin": 0,
+          "daysMax": 2
         }
       }
     }
