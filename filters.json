@@ -1,0 +1,1490 @@
+{
+    "allProdQuantity": 4566,
+    "filters": {
+      "typesOfProducts": [
+        {
+          "name": "Все серьги",
+          "shortName": "Серьги",
+          "value": "sergi",
+          "count": 1668,
+          "active": false,
+          "items": [
+            {
+              "name": "Каффы",
+              "value": "kaffy",
+              "count": 213,
+              "active": false
+            },
+            {
+              "name": "Клипсы",
+              "value": "klipsy",
+              "count": 26,
+              "active": false
+            },
+            {
+              "name": "Моносерьги",
+              "value": "monosergi",
+              "count": 325,
+              "active": false
+            },
+            {
+              "name": "Пусеты",
+              "value": "pusety",
+              "count": 358,
+              "active": false
+            },
+            {
+              "name": "Серьги-кольца",
+              "value": "sergikoltsa",
+              "count": 227,
+              "active": false
+            }
+          ]
+        },
+        {
+          "name": "Все кольца",
+          "shortName": "Кольца",
+          "value": "koltsa",
+          "count": 834,
+          "active": false,
+          "items": [
+            {
+              "name": "Печатки",
+              "value": "pechatki",
+              "count": 77,
+              "active": false
+            },
+            {
+              "name": "Фаланговые",
+              "value": "falangovye",
+              "count": 0,
+              "active": false
+            },
+            {
+              "name": "Наборы колец",
+              "value": "nabory-kolets",
+              "count": 3,
+              "active": false
+            }
+          ]
+        },
+        {
+          "name": "Все колье",
+          "shortName": "Колье",
+          "value": "kole",
+          "count": 1133,
+          "active": false,
+          "items": [
+            {
+              "name": "Медальоны",
+              "value": "medalony",
+              "count": 61,
+              "active": false
+            },
+            {
+              "name": "Цепи",
+              "value": "tsepi",
+              "count": 200,
+              "active": false
+            },
+            {
+              "name": "Чокеры",
+              "value": "chokery",
+              "count": 47,
+              "active": false
+            }
+          ]
+        },
+        {
+          "name": "Все броши",
+          "shortName": "Броши",
+          "value": "broshi",
+          "count": 40,
+          "active": false
+        },
+        {
+          "name": "Все браслеты",
+          "shortName": "Браслеты",
+          "value": "braslety",
+          "count": 819,
+          "active": false,
+          "items": [
+            {
+              "name": "Тонкие браслеты",
+              "value": "tonkie-braslety",
+              "count": 221,
+              "active": false
+            }
+          ]
+        },
+        {
+          "name": "Все заколки",
+          "shortName": "Заколки",
+          "value": "zakolki",
+          "count": 3,
+          "active": false
+        }
+      ],
+      "colors": [
+        {
+          "name": "Бежевый",
+          "value": "bezhevyi",
+          "color": "#E1D0BD",
+          "count": 13,
+          "active": false
+        },
+        {
+          "name": "Белый",
+          "value": "belyi",
+          "color": "#ffffff",
+          "count": 256,
+          "active": false
+        },
+        {
+          "name": "Бордовый",
+          "value": "bordovyi",
+          "color": null,
+          "count": 1,
+          "active": false
+        },
+        {
+          "name": "Голубой",
+          "value": "goluboi",
+          "color": "#61AEBF",
+          "count": 90,
+          "active": false
+        },
+        {
+          "name": "Желтый",
+          "value": "zheltyi",
+          "color": "#EBCB8B",
+          "count": 30,
+          "active": false
+        },
+        {
+          "name": "Зеленый",
+          "value": "zelenyi",
+          "color": "#A3BE8C",
+          "count": 107,
+          "active": false
+        },
+        {
+          "name": "Золотистый",
+          "value": "zolotistyi",
+          "color": "#D1B574",
+          "count": 1806,
+          "active": false
+        },
+        {
+          "name": "Коричневый",
+          "value": "korichnevyi",
+          "color": "#876339",
+          "count": 79,
+          "active": false
+        },
+        {
+          "name": "Красный",
+          "value": "krasnyi",
+          "color": "#BF616A",
+          "count": 86,
+          "active": false
+        },
+        {
+          "name": "Мульти",
+          "value": "multi",
+          "color": null,
+          "count": 81,
+          "active": false
+        },
+        {
+          "name": "Оранжевый",
+          "value": "oranzhevyi",
+          "color": "#D98A2E",
+          "count": 17,
+          "active": false
+        },
+        {
+          "name": "Розовый",
+          "value": "rozovyi",
+          "color": "pink",
+          "count": 146,
+          "active": false
+        },
+        {
+          "name": "Серебристый",
+          "value": "serebristyi",
+          "color": "#E5E5E5",
+          "count": 2288,
+          "active": false
+        },
+        {
+          "name": "Серый",
+          "value": "seryi",
+          "color": "grey",
+          "count": 31,
+          "active": false
+        },
+        {
+          "name": "Синий",
+          "value": "sinii",
+          "color": "#6181BF",
+          "count": 84,
+          "active": false
+        },
+        {
+          "name": "Фиолетовый",
+          "value": "fioletovyi",
+          "color": "#B761BF",
+          "count": 63,
+          "active": false
+        },
+        {
+          "name": "Черный",
+          "value": "chernyi",
+          "color": "#000000",
+          "count": 235,
+          "active": false
+        }
+      ],
+      "coverings": [
+        {
+          "name": "Vermeil",
+          "value": "vermeil",
+          "count": 59,
+          "active": false
+        },
+        {
+          "name": "белая бронза",
+          "value": "belaya_bronza",
+          "count": 7,
+          "active": false
+        },
+        {
+          "name": "Белое золото",
+          "value": "beloe_zoloto",
+          "count": 28,
+          "active": false
+        },
+        {
+          "name": "Белый родий",
+          "value": "belyi_rodii",
+          "count": 41,
+          "active": false
+        },
+        {
+          "name": "Золото",
+          "value": "zoloto",
+          "count": 1056,
+          "active": false
+        },
+        {
+          "name": "Оксидированный титан",
+          "value": "oksidirovannyi_titan",
+          "count": 29,
+          "active": false
+        },
+        {
+          "name": "Палладий",
+          "value": "palladii",
+          "count": 2,
+          "active": false
+        },
+        {
+          "name": "Позолота",
+          "value": "pozolota",
+          "count": 1,
+          "active": false
+        },
+        {
+          "name": "Родий",
+          "value": "rodii",
+          "count": 540,
+          "active": false
+        },
+        {
+          "name": "Розовое золото",
+          "value": "rozovoe_zoloto",
+          "count": 26,
+          "active": false
+        },
+        {
+          "name": "Рутений",
+          "value": "rutenii",
+          "count": 10,
+          "active": false
+        },
+        {
+          "name": "Серебро",
+          "value": "serebro",
+          "count": 349,
+          "active": false
+        },
+        {
+          "name": "Чернение",
+          "value": "cernenie",
+          "count": 34,
+          "active": false
+        },
+        {
+          "name": "Черный родий",
+          "value": "cernyi_rodii",
+          "count": 1,
+          "active": false
+        },
+        {
+          "name": "Черный рутений",
+          "value": "cernyi_rutenii",
+          "count": 0,
+          "active": false
+        },
+        {
+          "name": "Эмаль",
+          "value": "emal",
+          "count": 42,
+          "active": false
+        }
+      ],
+      "designers": [
+        {
+          "name": "35.02",
+          "value": "3502",
+          "count": 2,
+          "active": false
+        },
+        {
+          "name": "4C",
+          "value": "prosto",
+          "count": 27,
+          "active": false
+        },
+        {
+          "name": "Agnes Waterhouse",
+          "value": "agnes-waterhouse",
+          "count": 66,
+          "active": false
+        },
+        {
+          "name": "Aleksandr Sinitsyn",
+          "value": "aleksandr-sinitsyn",
+          "count": 30,
+          "active": false
+        },
+        {
+          "name": "Aloud",
+          "value": "aloud",
+          "count": 2,
+          "active": false
+        },
+        {
+          "name": "Alvaar",
+          "value": "alvaar",
+          "count": 29,
+          "active": false
+        },
+        {
+          "name": "Anton Heunis",
+          "value": "anton-heunis",
+          "count": 21,
+          "active": false
+        },
+        {
+          "name": "April.jwl",
+          "value": "apriljwl",
+          "count": 0,
+          "active": false
+        },
+        {
+          "name": "Aqua",
+          "value": "aqua",
+          "count": 182,
+          "active": false
+        },
+        {
+          "name": "Atelier Swarovski",
+          "value": "atelier-swarovski",
+          "count": 1,
+          "active": false
+        },
+        {
+          "name": "Avgvst",
+          "value": "natalia-bryantseva",
+          "count": 48,
+          "active": false
+        },
+        {
+          "name": "Balenciaga",
+          "value": "balenciaga",
+          "count": 0,
+          "active": false
+        },
+        {
+          "name": "Ben Amun",
+          "value": "ben-amun",
+          "count": 19,
+          "active": false
+        },
+        {
+          "name": "BNGL",
+          "value": "bngl",
+          "count": 75,
+          "active": false
+        },
+        {
+          "name": "Caviar Jewellery",
+          "value": "caviar_jewellery",
+          "count": 28,
+          "active": false
+        },
+        {
+          "name": "Celeste Mogador",
+          "value": "celeste-madagor",
+          "count": 2,
+          "active": false
+        },
+        {
+          "name": "Cornelia Webb",
+          "value": "cornelia-webb",
+          "count": 17,
+          "active": false
+        },
+        {
+          "name": "Crystalline",
+          "value": "crystalline",
+          "count": 20,
+          "active": false
+        },
+        {
+          "name": "Dusty Rose",
+          "value": "dusty-rose",
+          "count": 25,
+          "active": false
+        },
+        {
+          "name": "Dzhanelli Jewellery",
+          "value": "dzhanelli-jewellery",
+          "count": 3,
+          "active": false
+        },
+        {
+          "name": "EARON",
+          "value": "earon",
+          "count": 20,
+          "active": false
+        },
+        {
+          "name": "Ellen Conde",
+          "value": "ellen-conde",
+          "count": 29,
+          "active": false
+        },
+        {
+          "name": "ENCLAVE",
+          "value": "enclave",
+          "count": 0,
+          "active": false
+        },
+        {
+          "name": "EPIC Jewellery",
+          "value": "epic-jewellery",
+          "count": 1,
+          "active": false
+        },
+        {
+          "name": "ESHVI",
+          "value": "eshvi",
+          "count": 34,
+          "active": false
+        },
+        {
+          "name": "Exceptional Story",
+          "value": "exceptional-story",
+          "count": 0,
+          "active": false
+        },
+        {
+          "name": "Faris",
+          "value": "faris",
+          "count": 8,
+          "active": false
+        },
+        {
+          "name": "Fiore di Firenze",
+          "value": "fiore-di-firenze",
+          "count": 41,
+          "active": false
+        },
+        {
+          "name": "Fjord",
+          "value": "fjord",
+          "count": 48,
+          "active": false
+        },
+        {
+          "name": "FlyInHome",
+          "value": "fly-in-home",
+          "count": 29,
+          "active": false
+        },
+        {
+          "name": "Gem Kingdom",
+          "value": "gem-kingdom",
+          "count": 23,
+          "active": false
+        },
+        {
+          "name": "Hand Around",
+          "value": "hand_around",
+          "count": 27,
+          "active": false
+        },
+        {
+          "name": "Helene Zubeldia",
+          "value": "helen-zubeldia",
+          "count": 1,
+          "active": false
+        },
+        {
+          "name": "Herald Percy",
+          "value": "herald-percy",
+          "count": 119,
+          "active": false
+        },
+        {
+          "name": "Herald Percy Diamonds",
+          "value": "herald-percy-diamonds",
+          "count": 77,
+          "active": false
+        },
+        {
+          "name": "I Bello!",
+          "value": "i-bello",
+          "count": 1,
+          "active": false
+        },
+        {
+          "name": "IMAI",
+          "value": "imai",
+          "count": 5,
+          "active": false
+        },
+        {
+          "name": "Insight",
+          "value": "insight",
+          "count": 2,
+          "active": false
+        },
+        {
+          "name": "Isabel Marant",
+          "value": "isabel-marant",
+          "count": 20,
+          "active": false
+        },
+        {
+          "name": "Isharya",
+          "value": "isharya",
+          "count": 2,
+          "active": false
+        },
+        {
+          "name": "ISSUE.2",
+          "value": "issue2",
+          "count": 15,
+          "active": false
+        },
+        {
+          "name": "Jewlia",
+          "value": "jewlia",
+          "count": 11,
+          "active": false
+        },
+        {
+          "name": "Khoshtrik",
+          "value": "khoshtrik",
+          "count": 25,
+          "active": false
+        },
+        {
+          "name": "La Môme Bijou",
+          "value": "la_mome_bijou",
+          "count": 13,
+          "active": false
+        },
+        {
+          "name": "Lalique",
+          "value": "lalique",
+          "count": 6,
+          "active": false
+        },
+        {
+          "name": "Lanuk",
+          "value": "lanuk",
+          "count": 10,
+          "active": false
+        },
+        {
+          "name": "LAV'Z",
+          "value": "lavz",
+          "count": 175,
+          "active": false
+        },
+        {
+          "name": "Leonie Jewelry",
+          "value": "leonie_jewelry",
+          "count": 25,
+          "active": false
+        },
+        {
+          "name": "LESYANEBO",
+          "value": "nebo",
+          "count": 3,
+          "active": false
+        },
+        {
+          "name": "Leta",
+          "value": "leta",
+          "count": 24,
+          "active": false
+        },
+        {
+          "name": "Letter Bar",
+          "value": "letter-bar",
+          "count": 9,
+          "active": false
+        },
+        {
+          "name": "Lisa Smith",
+          "value": "lisa-smith",
+          "count": 362,
+          "active": false
+        },
+        {
+          "name": "LIYA",
+          "value": "liya",
+          "count": 39,
+          "active": false
+        },
+        {
+          "name": "Lola Rose",
+          "value": "lola-rose",
+          "count": 0,
+          "active": false
+        },
+        {
+          "name": "Loro Fede",
+          "value": "loro_fede",
+          "count": 30,
+          "active": false
+        },
+        {
+          "name": "Lovelavka",
+          "value": "lovelavka",
+          "count": 2,
+          "active": false
+        },
+        {
+          "name": "LUTA Jewelry",
+          "value": "luta_jewelry",
+          "count": 10,
+          "active": false
+        },
+        {
+          "name": "Maniovich AM",
+          "value": "maniovich-am",
+          "count": 67,
+          "active": false
+        },
+        {
+          "name": "Marc Jacobs",
+          "value": "marc-jakobs",
+          "count": 2,
+          "active": false
+        },
+        {
+          "name": "Mari Ordi",
+          "value": "mari-ordi",
+          "count": 0,
+          "active": false
+        },
+        {
+          "name": "Marni",
+          "value": "marni",
+          "count": 24,
+          "active": false
+        },
+        {
+          "name": "Mary Jane Claverol",
+          "value": "mary-jane-claverol",
+          "count": 4,
+          "active": false
+        },
+        {
+          "name": "Maurizio Mori",
+          "value": "maurizio-mori",
+          "count": 21,
+          "active": false
+        },
+        {
+          "name": "Maximilian Silver Label",
+          "value": "maximilian-silver-label",
+          "count": 42,
+          "active": false
+        },
+        {
+          "name": "Maya Gemstones",
+          "value": "maya-gemstones",
+          "count": 16,
+          "active": false
+        },
+        {
+          "name": "Maya Kotelnitskaya",
+          "value": "maya-kotelnitskaya",
+          "count": 0,
+          "active": false
+        },
+        {
+          "name": "Meadowlark",
+          "value": "meadowlark",
+          "count": 5,
+          "active": false
+        },
+        {
+          "name": "MiEstilo",
+          "value": "miestilo",
+          "count": 45,
+          "active": false
+        },
+        {
+          "name": "Mineral Weather",
+          "value": "mineral-weather",
+          "count": 115,
+          "active": false
+        },
+        {
+          "name": "Misho",
+          "value": "misho",
+          "count": 5,
+          "active": false
+        },
+        {
+          "name": "MM6 Maison Margiela",
+          "value": "mm6",
+          "count": 22,
+          "active": false
+        },
+        {
+          "name": "Momme",
+          "value": "momme",
+          "count": 20,
+          "active": false
+        },
+        {
+          "name": "Monolama",
+          "value": "monolama",
+          "count": 0,
+          "active": false
+        },
+        {
+          "name": "Moonka studio",
+          "value": "moonka",
+          "count": 105,
+          "active": false
+        },
+        {
+          "name": "Moonswoon",
+          "value": "moonswoon",
+          "count": 61,
+          "active": false
+        },
+        {
+          "name": "Ms. Marble",
+          "value": "ms_marble",
+          "count": 55,
+          "active": false
+        },
+        {
+          "name": "Mya Bay",
+          "value": "mya-bay",
+          "count": 160,
+          "active": false
+        },
+        {
+          "name": "Nastya Maximova",
+          "value": "nastya-maximova",
+          "count": 8,
+          "active": false
+        },
+        {
+          "name": "Natia x Lako",
+          "value": "natia-x-lako",
+          "count": 73,
+          "active": false
+        },
+        {
+          "name": "Nino Sepo",
+          "value": "nino-sepo",
+          "count": 9,
+          "active": false
+        },
+        {
+          "name": "Nuance",
+          "value": "nuance",
+          "count": 28,
+          "active": false
+        },
+        {
+          "name": "Oscar de la Renta",
+          "value": "oscar-de-la-renta",
+          "count": 40,
+          "active": false
+        },
+        {
+          "name": "OSSA",
+          "value": "ossa",
+          "count": 24,
+          "active": false
+        },
+        {
+          "name": "Paola Q",
+          "value": "paola-q",
+          "count": 3,
+          "active": false
+        },
+        {
+          "name": "PARSHOOTA x Poison Drop",
+          "value": "parshoota-x-poison-drop",
+          "count": 8,
+          "active": false
+        },
+        {
+          "name": "Phenomenal Studio",
+          "value": "phenomenal_studio",
+          "count": 47,
+          "active": false
+        },
+        {
+          "name": "Philippe Audibert",
+          "value": "philippe-audibert",
+          "count": 104,
+          "active": false
+        },
+        {
+          "name": "PHOSPHOR",
+          "value": "phosphor",
+          "count": 7,
+          "active": false
+        },
+        {
+          "name": "Poison Drop х Peopletalk",
+          "value": "poison-drop-kh-peopletalk",
+          "count": 1,
+          "active": false
+        },
+        {
+          "name": "Prosto Jewlry",
+          "value": "prosto-jewlry",
+          "count": 16,
+          "active": false
+        },
+        {
+          "name": "Ringstone",
+          "value": "ringstone",
+          "count": 161,
+          "active": false
+        },
+        {
+          "name": "Saharai",
+          "value": "saharai",
+          "count": 2,
+          "active": false
+        },
+        {
+          "name": "Secrets",
+          "value": "secrets",
+          "count": 67,
+          "active": false
+        },
+        {
+          "name": "Seed Bead",
+          "value": "seed-bead",
+          "count": 58,
+          "active": false
+        },
+        {
+          "name": "Serebriciti Jewelry",
+          "value": "serebriciti-jewelry",
+          "count": 45,
+          "active": false
+        },
+        {
+          "name": "Silhouette",
+          "value": "silhouette",
+          "count": 2,
+          "active": false
+        },
+        {
+          "name": "SKYE",
+          "value": "skye",
+          "count": 23,
+          "active": false
+        },
+        {
+          "name": "Swarovski",
+          "value": "swarovski",
+          "count": 83,
+          "active": false
+        },
+        {
+          "name": "Tannum",
+          "value": "tannum",
+          "count": 16,
+          "active": false
+        },
+        {
+          "name": "Thot Gioielli",
+          "value": "thot-gioielli",
+          "count": 8,
+          "active": false
+        },
+        {
+          "name": "Tilda",
+          "value": "tilda",
+          "count": 197,
+          "active": false
+        },
+        {
+          "name": "Tinai",
+          "value": "tinai",
+          "count": 22,
+          "active": false
+        },
+        {
+          "name": "Tinalilienthal",
+          "value": "tinalilienthal",
+          "count": 19,
+          "active": false
+        },
+        {
+          "name": "Tom Wood",
+          "value": "tom_wood",
+          "count": 41,
+          "active": false
+        },
+        {
+          "name": "TOUS",
+          "value": "tous",
+          "count": 214,
+          "active": false
+        },
+        {
+          "name": "Unode50",
+          "value": "uno-de-50",
+          "count": 347,
+          "active": false
+        },
+        {
+          "name": "URA Jewelry",
+          "value": "ura-jewelry",
+          "count": 24,
+          "active": false
+        },
+        {
+          "name": "Wanna?Be!",
+          "value": "wanna-be",
+          "count": 160,
+          "active": false
+        },
+        {
+          "name": "Waves and Gems",
+          "value": "waves-and-gems",
+          "count": 56,
+          "active": false
+        },
+        {
+          "name": "We dream in colour",
+          "value": "we-dream-in-colour",
+          "count": 1,
+          "active": false
+        },
+        {
+          "name": "Wishes Come True",
+          "value": "wishes-come-true",
+          "count": 39,
+          "active": false
+        },
+        {
+          "name": "Zoё Chicco",
+          "value": "zoe-chicco",
+          "count": 0,
+          "active": false
+        }
+      ],
+      "materials": [
+        {
+          "name": "Акрил",
+          "value": "akril",
+          "count": 5,
+          "active": false
+        },
+        {
+          "name": "Бирюза",
+          "value": "biryuza",
+          "count": 1,
+          "active": false
+        },
+        {
+          "name": "Бронза",
+          "value": "bronza",
+          "count": 41,
+          "active": false
+        },
+        {
+          "name": "Дерево",
+          "value": "derevo",
+          "count": 10,
+          "active": false
+        },
+        {
+          "name": "Жемчуг",
+          "value": "zhemchug",
+          "count": 111,
+          "active": false
+        },
+        {
+          "name": "Керамика",
+          "value": "keramika",
+          "count": 1,
+          "active": false
+        },
+        {
+          "name": "Кожа",
+          "value": "kozha",
+          "count": 11,
+          "active": false
+        },
+        {
+          "name": "Кристаллы",
+          "value": "kristally",
+          "count": 34,
+          "active": false
+        },
+        {
+          "name": "Латунь",
+          "value": "latun",
+          "count": 3,
+          "active": false
+        },
+        {
+          "name": "Мельхиор",
+          "value": "melxior",
+          "count": 1,
+          "active": false
+        },
+        {
+          "name": "Натуральный камень",
+          "value": "naturalnyi_kamen",
+          "count": 142,
+          "active": false
+        },
+        {
+          "name": "Пластик",
+          "value": "plastik",
+          "count": 7,
+          "active": false
+        },
+        {
+          "name": "Смола",
+          "value": "smola",
+          "count": 1,
+          "active": false
+        },
+        {
+          "name": "Стекло",
+          "value": "steklo",
+          "count": 38,
+          "active": false
+        },
+        {
+          "name": "Стекло, Жемчуг",
+          "value": "steklo_zemcug",
+          "count": 4,
+          "active": false
+        },
+        {
+          "name": "Текстиль",
+          "value": "tekstil",
+          "count": 2,
+          "active": false
+        },
+        {
+          "name": "Фарфор",
+          "value": "farfor",
+          "count": 0,
+          "active": false
+        }
+      ],
+      "metals": [
+        {
+          "name": "Аллюминий",
+          "value": "allyuminii",
+          "count": 1,
+          "active": false
+        },
+        {
+          "name": "Бронза",
+          "value": "bronza",
+          "count": 26,
+          "active": false
+        },
+        {
+          "name": "Золото",
+          "value": "zoloto",
+          "count": 425,
+          "active": false
+        },
+        {
+          "name": "Латунь",
+          "value": "latun",
+          "count": 795,
+          "active": false
+        },
+        {
+          "name": "Медь",
+          "value": "med",
+          "count": 2,
+          "active": false
+        },
+        {
+          "name": "Металл",
+          "value": "metall",
+          "count": 285,
+          "active": false
+        },
+        {
+          "name": "Серебро",
+          "value": "serebro",
+          "count": 1737,
+          "active": false
+        },
+        {
+          "name": "Сплав",
+          "value": "splav",
+          "count": 1036,
+          "active": false
+        },
+        {
+          "name": "Сталь",
+          "value": "stal",
+          "count": 100,
+          "active": false
+        },
+        {
+          "name": "Титан",
+          "value": "titan",
+          "count": 30,
+          "active": false
+        },
+        {
+          "name": "Ювелирный сплав",
+          "value": "uvelirnyi_splav",
+          "count": 0,
+          "active": false
+        }
+      ],
+      "ringSizes": [
+        {
+          "name": "0,035 ct",
+          "value": "0_035_ct",
+          "count": 0,
+          "active": false
+        },
+        {
+          "name": "12",
+          "value": "12",
+          "count": 0,
+          "active": false
+        },
+        {
+          "name": "13",
+          "value": "13",
+          "count": 1,
+          "active": false
+        },
+        {
+          "name": "13,5",
+          "value": "13_5",
+          "count": 0,
+          "active": false
+        },
+        {
+          "name": "14",
+          "value": "14",
+          "count": 2,
+          "active": false
+        },
+        {
+          "name": "14,5",
+          "value": "14_5",
+          "count": 4,
+          "active": false
+        },
+        {
+          "name": "15",
+          "value": "15",
+          "count": 6,
+          "active": false
+        },
+        {
+          "name": "15,5",
+          "value": "15_5",
+          "count": 7,
+          "active": false
+        },
+        {
+          "name": "15,75",
+          "value": "15_75",
+          "count": 1,
+          "active": false
+        },
+        {
+          "name": "15,8",
+          "value": "15_8",
+          "count": 0,
+          "active": false
+        },
+        {
+          "name": "16",
+          "value": "16",
+          "count": 43,
+          "active": false
+        },
+        {
+          "name": "16,25",
+          "value": "16_25",
+          "count": 2,
+          "active": false
+        },
+        {
+          "name": "16,5",
+          "value": "16_5",
+          "count": 34,
+          "active": false
+        },
+        {
+          "name": "16,5/16,5/17/17,5",
+          "value": "16_516_51717_5",
+          "count": 0,
+          "active": false
+        },
+        {
+          "name": "16,5/17/17,5",
+          "value": "16_51717_5",
+          "count": 0,
+          "active": false
+        },
+        {
+          "name": "16,75",
+          "value": "16_75",
+          "count": 0,
+          "active": false
+        },
+        {
+          "name": "16,8",
+          "value": "16_8",
+          "count": 0,
+          "active": false
+        },
+        {
+          "name": "17",
+          "value": "17",
+          "count": 108,
+          "active": false
+        },
+        {
+          "name": "17,25",
+          "value": "17_25",
+          "count": 0,
+          "active": false
+        },
+        {
+          "name": "17,5",
+          "value": "17_5",
+          "count": 53,
+          "active": false
+        },
+        {
+          "name": "17,75",
+          "value": "17_75",
+          "count": 0,
+          "active": false
+        },
+        {
+          "name": "18",
+          "value": "18",
+          "count": 36,
+          "active": false
+        },
+        {
+          "name": "18,25",
+          "value": "18_25",
+          "count": 1,
+          "active": false
+        },
+        {
+          "name": "18,5",
+          "value": "18_5",
+          "count": 14,
+          "active": false
+        },
+        {
+          "name": "18,75",
+          "value": "18_75",
+          "count": 0,
+          "active": false
+        },
+        {
+          "name": "18,8",
+          "value": "18_8",
+          "count": 0,
+          "active": false
+        },
+        {
+          "name": "19",
+          "value": "19",
+          "count": 5,
+          "active": false
+        },
+        {
+          "name": "19,5",
+          "value": "19_5",
+          "count": 8,
+          "active": false
+        },
+        {
+          "name": "20",
+          "value": "20",
+          "count": 6,
+          "active": false
+        },
+        {
+          "name": "20,5",
+          "value": "20_5",
+          "count": 2,
+          "active": false
+        },
+        {
+          "name": "21",
+          "value": "21",
+          "count": 3,
+          "active": false
+        },
+        {
+          "name": "21,5",
+          "value": "21_5",
+          "count": 0,
+          "active": false
+        },
+        {
+          "name": "22",
+          "value": "22",
+          "count": 0,
+          "active": false
+        },
+        {
+          "name": "8",
+          "value": "8",
+          "count": 0,
+          "active": false
+        },
+        {
+          "name": "M",
+          "value": "m",
+          "count": 59,
+          "active": false
+        },
+        {
+          "name": "S",
+          "value": "s",
+          "count": 3,
+          "active": false
+        },
+        {
+          "name": "Универсальный",
+          "value": "universalnyi",
+          "count": 96,
+          "active": false
+        }
+      ],
+      "priceRange": [
+        0,
+        30
+      ],
+      "discounts": [
+        {
+          "name": "10%",
+          "value": 10,
+          "count": 1,
+          "active": false
+        },
+        {
+          "name": "15%",
+          "value": 15,
+          "count": 1,
+          "active": false
+        },
+        {
+          "name": "20%",
+          "value": 20,
+          "count": 1,
+          "active": false
+        },
+        {
+          "name": "25%",
+          "value": 25,
+          "count": 1,
+          "active": false
+        },
+        {
+          "name": "30%",
+          "value": 30,
+          "count": 1,
+          "active": false
+        },
+        {
+          "name": "35%",
+          "value": 35,
+          "count": 1,
+          "active": false
+        },
+        {
+          "name": "40%",
+          "value": 40,
+          "count": 1,
+          "active": false
+        },
+        {
+          "name": "50%",
+          "value": 50,
+          "count": 1,
+          "active": false
+        },
+        {
+          "name": "60%",
+          "value": 60,
+          "count": 1,
+          "active": false
+        },
+        {
+          "name": "70%",
+          "value": 70,
+          "count": 1,
+          "active": false
+        },
+        {
+          "name": "80%",
+          "value": 80,
+          "count": 1,
+          "active": false
+        }
+      ]
+    }
+  }
