@@ -1,0 +1,252 @@
+{
+    "commonData": {
+        "currentYear": "number",
+        "page": {
+            "url": "string",
+            "title": "string",
+            "description": "string",
+            "keywords": "string",
+            "indexingProps": "string",
+            "ogTitle": "string",
+            "ogDescription": "string",
+            "ogImage": "string",
+            "ogUrl": "string",
+            "canonical": "string"
+        },
+        "versionHash": "string",
+        "user": {
+            "isAuth": "Boolean",
+            "isAdmin": "Boolean",
+            "isEmployee": "Boolean",
+            "isBad": "Boolean",
+            "birthday": "string",
+            "deliveryAddress": {
+                "place": "string",
+                "address": "string"
+            },
+            "wishlist": ""
+        },
+        "products": {
+            "packageTypes": {
+                "package": {
+                    "id": "number",
+                    "name": "string",
+                    "photos": {
+                        "desktop": "obj or false",
+                        "tablet": "obj or fals",
+                        "mobile": {
+                            "webp": {},
+                            "jpeg": {}
+                        }
+                    }
+                },
+                "box": {
+                    "id": "number",
+                    "name": "string",
+                    "photos": {
+                        "desktop": "obj or false",
+                        "tablet": "obj or fals",
+                        "mobile": {
+                            "webp": {},
+                            "jpeg": {}
+                        }
+                    }
+                },
+                "eco": {
+                    "id": "number",
+                    "name": "string",
+                    "photos": {
+                        "desktop": "obj or false",
+                        "tablet": "obj or fals",
+                        "mobile": {
+                            "webp": {},
+                            "jpeg": {}
+                        }
+                    }
+                }
+            }
+        },
+        "company": {
+            "email": {
+                "info": "string",
+                "support": "string",
+                "wholesale": "string",
+                "press": "string",
+                "buying": "string"
+            },
+            "phone": {
+                "main": {
+                    "number": "string",
+                    "formatted": "string",
+                    "altFormatted": "string"
+                },
+                "secondary": {
+                    "number": "string",
+                    "formatted": "string",
+                    "altFormatted": "string"
+                }
+            },
+            "shops": {
+                "moscow": [{
+                    "id": "number",
+                    "name": "string",
+                    "shortName": "string",
+                    "address": {
+                        "city": "string",
+                        "address": "string"
+                    },
+                    "undergroundStation": {
+                        "name": "string",
+                        "color": "string"
+                    },
+                    "schedule": [],
+                    "pictures": {
+                        "main": {
+                            "desktop": false,
+                            "tablet": {
+                                "webp": {},
+                                "jpg": {}
+                            },
+                            "mobile": {
+                                "webp": {},
+                                "jpg": {}
+                            }
+                        },
+                        "small": {
+                            "desktop": false,
+                            "tablet": false,
+                            "mobile": {
+                                "webp": {},
+                                "jpg": {}
+                            }
+                        },
+                        "preview": {
+                            "desktop": false,
+                            "tablet": false,
+                            "mobile": {
+                                "webp": {},
+                                "jpg": {}
+                            }
+                        },
+                        "scheme": false
+                    }
+                }],
+                "stPetersburg": {
+                    "": {
+                        "id": "number",
+                        "name": "string",
+                        "shortName": "string",
+                        "address": {
+                            "city": "string",
+                            "address": "string"
+                        },
+                        "undergroundStation": {
+                            "name": "string",
+                            "color": "string"
+                        },
+                        "schedule": [],
+                        "pictures": {
+                            "main": {
+                                "desktop": false,
+                                "tablet": {
+                                    "webp": {},
+                                    "jpg": {}
+                                },
+                                "mobile": {
+                                    "webp": {},
+                                    "jpg": {}
+                                }
+                            },
+                            "small": {
+                                "desktop": false,
+                                "tablet": false,
+                                "mobile": {
+                                    "webp": {},
+                                    "jpg": {}
+                                }
+                            },
+                            "preview": {
+                                "desktop": false,
+                                "tablet": false,
+                                "mobile": {
+                                    "webp": {},
+                                    "jpg": {}
+                                }
+                            },
+                            "scheme": false
+                        }
+                    }
+                }
+            },
+            "paymentMethods": {
+                "creditCards": {
+                    "visa": {
+                        "name": "string",
+                        "iconId": "string"
+                    },
+                    "mastercard": {
+                        "name": "string",
+                        "iconId": "string"
+                    },
+                    "maestro": {
+                        "name": "string",
+                        "iconId": "string"
+                    },
+                    "mir": {
+                        "name": "string",
+                        "iconId": "string"
+                    }
+                }
+            },
+            "socialMedia": {
+                "facebook": {
+                    "name": "string",
+                    "link": "string",
+                    "iconId": "string"
+                },
+                "instagram": {
+                    "name": "string",
+                    "link": "string",
+                    "iconId": "string"
+                },
+                "mailRu": {
+                    "name": "string",
+                    "link": "string",
+                    "iconId": "string"
+                },
+                "odnoklassniki": {
+                    "name": "string",
+                    "link": "string",
+                    "iconId": "string"
+                },
+                "pinterest": {
+                    "name": "string",
+                    "link": "string",
+                    "iconId": "string"
+                },
+                "telegram": {
+                    "name": "string",
+                    "link": "string",
+                    "iconId": "string"
+                },
+                "vkontakte": {
+                    "name": "string",
+                    "link": "string",
+                    "iconId": "string"
+                },
+                "whatsApp": {
+                    "name": "string",
+                    "link": "string",
+                    "iconId": "string"
+                },
+                "youtube": {
+                    "name": "string",
+                    "link": "string",
+                    "iconId": "string"
+                }
+            }
+        }
+    },
+    "csrf_token": "string",
+    "dataLayer": ""
+}
